@@ -1,0 +1,592 @@
+```json
+{
+  "hotel_information": {
+    "hotel_name": "BONNE NUIT HOTEL HANOI",
+    "brand_group": "Công ty TNHH thương mại Nam Huy Phong",
+    "address": "26-30A Cua Dong street",
+    "district": "Hoan Kiem District",
+    "city": "Ha Noi",
+    "country": "Viet Nam",
+    "website": "http://www.bonnenuithanoi.com/",
+    "email": [
+      "sales@bonnenuithanoi.com"
+    ],
+    "phone_numbers": [
+      "00 84 989 946483",
+      "00 84 4 3747 6422"
+    ],
+    "tax_code": "",
+    "representatives": [
+      {
+        "name": "Bà Vũ Thu Thủy",
+        "position": "Giám Đốc"
+      },
+      {
+        "name": "Tom Nguyen",
+        "position": "Director of Sales and Marketing"
+      }
+    ]
+  },
+  "contract_information": {
+    "contract_name": "SERVICE CONTRACT / HỢP ĐỒNG DỊCH VỤ",
+    "contract_number": "",
+    "validity": {
+      "start_date": "01/01/2026",
+      "end_date": "31/12/2026"
+    },
+    "applicable_market": [
+      "FIT"
+    ],
+    "confidentiality_clause": "",
+    "internet_rate_restriction": ""
+  },
+  "room_types": [
+    {
+      "room_name": "Superior",
+      "room_code": "",
+      "room_category": "",
+      "description": "",
+      "size_sqm": "",
+      "number_of_rooms": "",
+      "bed_types": [],
+      "view": "",
+      "window_type": "",
+      "max_occupancy": "",
+      "standard_occupancy": "",
+      "room_features": [],
+      "seasonal_rates": [
+        {
+          "season_name": "High Season",
+          "date_range": "02/05/2026-30/09/2026",
+          "occupancy_type": "SGL/DBL/TWN",
+          "market_type": "FIT",
+          "rate_plan": "",
+          "currency": "VND",
+          "price": "900.000",
+          "meal_included": [
+            "Daily Breakfast at hotel restaurant and open from 6.00AM till 10.00AM"
+          ],
+          "tax_included": "10% VAT",
+          "service_charge_included": "5% service charge",
+          "rate_notes": []
+        },
+        {
+          "season_name": "Low Season",
+          "date_range": "01/01/2026-01/05/2026",
+          "occupancy_type": "SGL/DBL/TWN",
+          "market_type": "FIT",
+          "rate_plan": "",
+          "currency": "VND",
+          "price": "950.000",
+          "meal_included": [
+            "Daily Breakfast at hotel restaurant and open from 6.00AM till 10.00AM"
+          ],
+          "tax_included": "10% VAT",
+          "service_charge_included": "5% service charge",
+          "rate_notes": []
+        },
+        {
+          "season_name": "Low Season",
+          "date_range": "01/10/2026-31/12/2026",
+          "occupancy_type": "SGL/DBL/TWN",
+          "market_type": "FIT",
+          "rate_plan": "",
+          "currency": "VND",
+          "price": "950.000",
+          "meal_included": [
+            "Daily Breakfast at hotel restaurant and open from 6.00AM till 10.00AM"
+          ],
+          "tax_included": "10% VAT",
+          "service_charge_included": "5% service charge",
+          "rate_notes": []
+        }
+      ]
+    },
+    {
+      "room_name": "Deluxe",
+      "room_code": "",
+      "room_category": "",
+      "description": "",
+      "size_sqm": "",
+      "number_of_rooms": "",
+      "bed_types": [],
+      "view": "",
+      "window_type": "",
+      "max_occupancy": "",
+      "standard_occupancy": "",
+      "room_features": [],
+      "seasonal_rates": [
+        {
+          "season_name": "High Season",
+          "date_range": "02/05/2026-30/09/2026",
+          "occupancy_type": "SGL/DBL/TWN",
+          "market_type": "FIT",
+          "rate_plan": "",
+          "currency": "VND",
+          "price": "1.050.000",
+          "meal_included": [
+            "Daily Breakfast at hotel restaurant and open from 6.00AM till 10.00AM"
+          ],
+          "tax_included": "10% VAT",
+          "service_charge_included": "5% service charge",
+          "rate_notes": []
+        },
+        {
+          "season_name": "Low Season",
+          "date_range": "01/01/2026-01/05/2026",
+          "occupancy_type": "SGL/DBL/TWN",
+          "market_type": "FIT",
+          "rate_plan": "",
+          "currency": "VND",
+          "price": "1.100.000",
+          "meal_included": [
+            "Daily Breakfast at hotel restaurant and open from 6.00AM till 10.00AM"
+          ],
+          "tax_included": "10% VAT",
+          "service_charge_included": "5% service charge",
+          "rate_notes": []
+        },
+        {
+          "season_name": "Low Season",
+          "date_range": "01/10/2026-31/12/2026",
+          "occupancy_type": "SGL/DBL/TWN",
+          "market_type": "FIT",
+          "rate_plan": "",
+          "currency": "VND",
+          "price": "1.100.000",
+          "meal_included": [
+            "Daily Breakfast at hotel restaurant and open from 6.00AM till 10.00AM"
+          ],
+          "tax_included": "10% VAT",
+          "service_charge_included": "5% service charge",
+          "rate_notes": []
+        }
+      ]
+    },
+    {
+      "room_name": "Deluxe City View",
+      "room_code": "",
+      "room_category": "",
+      "description": "",
+      "size_sqm": "",
+      "number_of_rooms": "",
+      "bed_types": [],
+      "view": "City View",
+      "window_type": "",
+      "max_occupancy": "",
+      "standard_occupancy": "",
+      "room_features": [],
+      "seasonal_rates": [
+        {
+          "season_name": "High Season",
+          "date_range": "02/05/2026-30/09/2026",
+          "occupancy_type": "SGL/DBL/TWN",
+          "market_type": "FIT",
+          "rate_plan": "",
+          "currency": "VND",
+          "price": "1.150.000",
+          "meal_included": [
+            "Daily Breakfast at hotel restaurant and open from 6.00AM till 10.00AM"
+          ],
+          "tax_included": "10% VAT",
+          "service_charge_included": "5% service charge",
+          "rate_notes": []
+        },
+        {
+          "season_name": "Low Season",
+          "date_range": "01/01/2026-01/05/2026",
+          "occupancy_type": "SGL/DBL/TWN",
+          "market_type": "FIT",
+          "rate_plan": "",
+          "currency": "VND",
+          "price": "1.200.000",
+          "meal_included": [
+            "Daily Breakfast at hotel restaurant and open from 6.00AM till 10.00AM"
+          ],
+          "tax_included": "10% VAT",
+          "service_charge_included": "5% service charge",
+          "rate_notes": []
+        },
+        {
+          "season_name": "Low Season",
+          "date_range": "01/10/2026-31/12/2026",
+          "occupancy_type": "SGL/DBL/TWN",
+          "market_type": "FIT",
+          "rate_plan": "",
+          "currency": "VND",
+          "price": "1.200.000",
+          "meal_included": [
+            "Daily Breakfast at hotel restaurant and open from 6.00AM till 10.00AM"
+          ],
+          "tax_included": "10% VAT",
+          "service_charge_included": "5% service charge",
+          "rate_notes": []
+        }
+      ]
+    },
+    {
+      "room_name": "Family Suite with Balcony",
+      "room_code": "",
+      "room_category": "",
+      "description": "",
+      "size_sqm": "",
+      "number_of_rooms": "",
+      "bed_types": [],
+      "view": "",
+      "window_type": "",
+      "max_occupancy": "",
+      "standard_occupancy": "",
+      "room_features": [
+        "Balcony"
+      ],
+      "seasonal_rates": [
+        {
+          "season_name": "High Season",
+          "date_range": "02/05/2026-30/09/2026",
+          "occupancy_type": "SGL/DBL/TWN",
+          "market_type": "FIT",
+          "rate_plan": "",
+          "currency": "VND",
+          "price": "1.600.000",
+          "meal_included": [
+            "Daily Breakfast at hotel restaurant and open from 6.00AM till 10.00AM"
+          ],
+          "tax_included": "10% VAT",
+          "service_charge_included": "5% service charge",
+          "rate_notes": []
+        },
+        {
+          "season_name": "Low Season",
+          "date_range": "01/01/2026-01/05/2026",
+          "occupancy_type": "SGL/DBL/TWN",
+          "market_type": "FIT",
+          "rate_plan": "",
+          "currency": "VND",
+          "price": "1.700.000",
+          "meal_included": [
+            "Daily Breakfast at hotel restaurant and open from 6.00AM till 10.00AM"
+          ],
+          "tax_included": "10% VAT",
+          "service_charge_included": "5% service charge",
+          "rate_notes": []
+        },
+        {
+          "season_name": "Low Season",
+          "date_range": "01/10/2026-31/12/2026",
+          "occupancy_type": "SGL/DBL/TWN",
+          "market_type": "FIT",
+          "rate_plan": "",
+          "currency": "VND",
+          "price": "1.700.000",
+          "meal_included": [
+            "Daily Breakfast at hotel restaurant and open from 6.00AM till 10.00AM"
+          ],
+          "tax_included": "10% VAT",
+          "service_charge_included": "5% service charge",
+          "rate_notes": []
+        }
+      ]
+    }
+  ],
+  "extra_bed_policy": {
+    "available": "Yes",
+    "max_extra_beds_per_room": "",
+    "extra_bed_rates": [
+      {
+        "season": "All Year",
+        "currency": "VND",
+        "price": "300.000",
+        "conditions": [
+          "Includes breakfast"
+        ]
+      }
+    ]
+  },
+  "child_policy": {
+    "infant_policy": [],
+    "child_free_policy": [
+      {
+        "age_range": "Under 11 years old",
+        "currency": "VND",
+        "price": "0",
+        "conditions": [
+          "Share bed with parent",
+          "Free breakfast",
+          "Maximum 02 children per room"
+        ]
+      }
+    ],
+    "child_breakfast_policy": [],
+    "child_extra_bed_policy": [
+      {
+        "age_range": "From 12 years old up",
+        "currency": "VND",
+        "price": "250.000",
+        "conditions": [
+          "Considered as an adult",
+          "Required 1 extra bed",
+          "Includes breakfast"
+        ]
+      }
+    ],
+    "adult_definition": "From 12 years old up",
+    "child_definition": "Under 11 years old",
+    "baby_cot_policy": []
+  },
+  "meal_information": {
+    "restaurant_information": [
+      {
+        "restaurant_name": "Hotel Restaurant",
+        "meal_type": "Breakfast",
+        "opening_hours": "6:00AM - 10:00AM",
+        "service_type": "Buffet"
+      }
+    ],
+    "meal_rates": [
+      {
+        "meal_type": "Additional Breakfast / Buffet",
+        "currency": "VND",
+        "price": "100.000",
+        "conditions": [
+          "NET",
+          "Per person"
+        ]
+      }
+    ]
+  },
+  "included_benefits": [
+    {
+      "benefit_type": "Breakfast",
+      "details": "Daily Breakfast at hotel restaurant and open from 6.00AM till 10.00AM",
+      "applicable_room_types": [
+        "Superior",
+        "Deluxe",
+        "Deluxe City View",
+        "Family Suite with Balcony"
+      ],
+      "conditions": []
+    },
+    {
+      "benefit_type": "Internet",
+      "details": "Complimentary Wifi throughout the Hotel",
+      "applicable_room_types": [
+        "Superior",
+        "Deluxe",
+        "Deluxe City View",
+        "Family Suite with Balcony"
+      ],
+      "conditions": []
+    },
+    {
+      "benefit_type": "Computer Access",
+      "details": "Complimentary Hotel computer at the Lobby with wifi internet access",
+      "applicable_room_types": [
+        "Superior",
+        "Deluxe",
+        "Deluxe City View",
+        "Family Suite with Balcony"
+      ],
+      "conditions": []
+    },
+    {
+      "benefit_type": "In-room Amenities",
+      "details": "Complimentary in house tea coffee facilities",
+      "applicable_room_types": [
+        "Superior",
+        "Deluxe",
+        "Deluxe City View",
+        "Family Suite with Balcony"
+      ],
+      "conditions": []
+    },
+    {
+      "benefit_type": "Mineral Water",
+      "details": "Complimentary two bottles of mineral water per day",
+      "applicable_room_types": [
+        "Superior",
+        "Deluxe",
+        "Deluxe City View",
+        "Family Suite with Balcony"
+      ],
+      "conditions": []
+    },
+    {
+      "benefit_type": "Welcome Fruit",
+      "details": "Welcome seasonal fresh fruit to be served in room on the arrival date",
+      "applicable_room_types": [
+        "Family Suite with Balcony"
+      ],
+      "conditions": [
+        "Applied for stay on the Suite room only"
+      ]
+    },
+    {
+      "benefit_type": "Laundry Discount",
+      "details": "Discount 25% for laundry service",
+      "applicable_room_types": [
+        "Family Suite with Balcony"
+      ],
+      "conditions": [
+        "Applied for stay on the Suite room only"
+      ]
+    }
+  ],
+  "facilities": [
+    {
+      "facility_name": "Wifi",
+      "availability": "Throughout the Hotel",
+      "notes": "Complimentary"
+    },
+    {
+      "facility_name": "Hotel Computer",
+      "availability": "Lobby",
+      "notes": "Complimentary with wifi internet access"
+    },
+    {
+      "facility_name": "Tea and Coffee Facilities",
+      "availability": "In-room",
+      "notes": "Complimentary"
+    }
+  ],
+  "transportation_services": [],
+  "checkin_checkout_policy": {
+    "checkin_time": "14:00",
+    "checkout_time": "12:00",
+    "early_checkin_policy": [
+      {
+        "time_range": "Before 8:00 AM",
+        "currency": "VND",
+        "price": "100%",
+        "conditions": [
+          "Subject to availability",
+          "Includes breakfast"
+        ]
+      },
+      {
+        "time_range": "After 8:00 AM",
+        "currency": "VND",
+        "price": "70%",
+        "conditions": [
+          "Subject to availability",
+          "Without breakfast"
+        ]
+      }
+    ],
+    "late_checkout_policy": [
+      {
+        "time_range": "Until 18:00",
+        "currency": "VND",
+        "price": "Half day room charge",
+        "conditions": [
+          "Subject to availability"
+        ]
+      },
+      {
+        "time_range": "After 18:00",
+        "currency": "VND",
+        "price": "Full day room charge",
+        "conditions": [
+          "Subject to availability"
+        ]
+      }
+    ]
+  },
+  "cancellation_policy": [
+    {
+      "period": "More than 4 days prior to arrival",
+      "currency": "VND",
+      "price": "0",
+      "percentage": "0%",
+      "conditions": [
+        "Under 7 rooms & FIT",
+        "No cancellation fee"
+      ]
+    },
+    {
+      "period": "Between 2 and 3 days prior to arrival",
+      "currency": "VND",
+      "price": "One night's stay charge",
+      "percentage": "",
+      "conditions": [
+        "Under 7 rooms & FIT"
+      ]
+    },
+    {
+      "period": "Within 24 hours prior arrival day and no show",
+      "currency": "VND",
+      "price": "100%",
+      "percentage": "100%",
+      "conditions": [
+        "Under 7 rooms & FIT",
+        "Full-length stay charge"
+      ]
+    }
+  ],
+  "payment_policy": {
+    "payment_terms": [
+      {
+        "details": "The total amount will be settled by Party A after 10 days from the date of receipt of invoice from side B by cash or credit card or bank transfer to Party B"
+      }
+    ],
+    "deposit_policy": [],
+    "refund_policy": [
+      {
+        "details": "If Party B shall not receive payment as mentioned above, the debt is considered overdue and will be charged at 2% interest rate banks / month but not more than 30 days"
+      }
+    ]
+  },
+  "peak_period_surcharge": [
+    {
+      "occasion": "Tết Nguyên Đán, Noel, 30/4 & 1/5; Tết Dương lịch, Ngày Quốc Khánh",
+      "date_range": "",
+      "currency": "VND",
+      "price": "100.000",
+      "percentage": "",
+      "conditions": [
+        "Per room"
+      ]
+    }
+  ],
+  "restrictions": [],
+  "important_notes": [
+    "All rooming lists for groups must clearly indicate guest full name, arrival and departure dates, passport and visa numbers, flight details, guest gender and if in a twin room indicates names of person sharing",
+    "All bookings should be made in writing and directly by fax or email to Sales & Marketing Department",
+    "Confirmation of room(s) is subject to availability",
+    "Early check-in subject to availability. For all early check-ins, we strongly recommend that you reserve the rooms the night before in order to guarantee availability"
+  ],
+  "raw_season_definitions": [
+    {
+      "season_name": "High Season",
+      "date_ranges": [
+        "02/05/2026-30/09/2026"
+      ]
+    },
+    {
+      "season_name": "Low Season",
+      "date_ranges": [
+        "01/01/2026-01/05/2026",
+        "01/10/2026-31/12/2026"
+      ]
+    }
+  ],
+  "special_hotel_feature": {
+    "feature_name": "",
+    "feature_category": "",
+    "details": ""
+  },
+  "metadata": {
+    "document_language": [
+      "English",
+      "Vietnamese"
+    ],
+    "document_type": "Service Contract",
+    "extraction_confidence": "High",
+    "contains_fit_rates": "Yes",
+    "contains_child_policy": "Yes",
+    "contains_meal_policy": "Yes",
+    "contains_transport_service": "No",
+    "contains_peak_surcharge": "Yes",
+    "contains_special_feature": "No"
+  }
+}
+```

@@ -1,0 +1,458 @@
+```json
+{
+  "hotel_information": {
+    "hotel_name": "Golden Boutique Hotel Măng Đen",
+    "brand_group": "",
+    "address": "",
+    "district": "",
+    "city": "Măng Đen",
+    "country": "Vietnam",
+    "website": "",
+    "email": [],
+    "phone_numbers": [],
+    "tax_code": "",
+    "representatives": []
+  },
+  "contract_information": {
+    "contract_name": "SPRING OF LIFE",
+    "contract_number": "",
+    "validity": {
+      "start_date": "2025-02-12",
+      "end_date": "2025-05-31"
+    },
+    "applicable_market": [
+      "FIT"
+    ],
+    "confidentiality_clause": "",
+    "internet_rate_restriction": ""
+  },
+  "room_types": [
+    {
+      "room_name": "Deluxe Twin",
+      "room_code": "",
+      "room_category": "Deluxe Twin",
+      "description": "",
+      "size_sqm": "26",
+      "number_of_rooms": "32",
+      "bed_types": [],
+      "view": "",
+      "window_type": "",
+      "max_occupancy": "",
+      "standard_occupancy": "",
+      "room_features": [],
+      "seasonal_rates": [
+        {
+          "season_name": "Sunday-Thursday",
+          "date_range": "February to May 2025",
+          "occupancy_type": "",
+          "market_type": "FIT",
+          "rate_plan": "",
+          "currency": "VND",
+          "price": "1,600,000",
+          "meal_included": [
+            "breakfast for 2 guests"
+          ],
+          "tax_included": "",
+          "service_charge_included": "",
+          "rate_notes": [
+            "Nett",
+            "Valid from 12.02.2025"
+          ]
+        },
+        {
+          "season_name": "Friday-Saturday",
+          "date_range": "February to May 2025",
+          "occupancy_type": "",
+          "market_type": "FIT",
+          "rate_plan": "",
+          "currency": "VND",
+          "price": "1,750,000",
+          "meal_included": [
+            "breakfast for 2 guests"
+          ],
+          "tax_included": "",
+          "service_charge_included": "",
+          "rate_notes": [
+            "Nett",
+            "Valid from 12.02.2025"
+          ]
+        }
+      ]
+    },
+    {
+      "room_name": "Executive Deluxe",
+      "room_code": "",
+      "room_category": "Executive Deluxe",
+      "description": "",
+      "size_sqm": "28",
+      "number_of_rooms": "12",
+      "bed_types": [],
+      "view": "",
+      "window_type": "",
+      "max_occupancy": "",
+      "standard_occupancy": "",
+      "room_features": [],
+      "seasonal_rates": [
+        {
+          "season_name": "Sunday-Thursday",
+          "date_range": "February to May 2025",
+          "occupancy_type": "",
+          "market_type": "FIT",
+          "rate_plan": "",
+          "currency": "VND",
+          "price": "1,750,000",
+          "meal_included": [
+            "breakfast for 2 guests"
+          ],
+          "tax_included": "",
+          "service_charge_included": "",
+          "rate_notes": [
+            "Nett",
+            "Valid from 12.02.2025"
+          ]
+        },
+        {
+          "season_name": "Friday-Saturday",
+          "date_range": "February to May 2025",
+          "occupancy_type": "",
+          "market_type": "FIT",
+          "rate_plan": "",
+          "currency": "VND",
+          "price": "1,900,000",
+          "meal_included": [
+            "breakfast for 2 guests"
+          ],
+          "tax_included": "",
+          "service_charge_included": "",
+          "rate_notes": [
+            "Nett",
+            "Valid from 12.02.2025"
+          ]
+        }
+      ]
+    },
+    {
+      "room_name": "Deluxe Suite",
+      "room_code": "",
+      "room_category": "Deluxe Suite",
+      "description": "",
+      "size_sqm": "30",
+      "number_of_rooms": "06",
+      "bed_types": [],
+      "view": "",
+      "window_type": "",
+      "max_occupancy": "",
+      "standard_occupancy": "",
+      "room_features": [],
+      "seasonal_rates": [
+        {
+          "season_name": "Sunday-Thursday",
+          "date_range": "February to May 2025",
+          "occupancy_type": "",
+          "market_type": "FIT",
+          "rate_plan": "",
+          "currency": "VND",
+          "price": "1,950,000",
+          "meal_included": [
+            "breakfast for 2 guests"
+          ],
+          "tax_included": "",
+          "service_charge_included": "",
+          "rate_notes": [
+            "Nett",
+            "Valid from 12.02.2025"
+          ]
+        },
+        {
+          "season_name": "Friday-Saturday",
+          "date_range": "February to May 2025",
+          "occupancy_type": "",
+          "market_type": "FIT",
+          "rate_plan": "",
+          "currency": "VND",
+          "price": "2,100,000",
+          "meal_included": [
+            "breakfast for 2 guests"
+          ],
+          "tax_included": "",
+          "service_charge_included": "",
+          "rate_notes": [
+            "Nett",
+            "Valid from 12.02.2025"
+          ]
+        }
+      ]
+    },
+    {
+      "room_name": "Grande Suite",
+      "room_code": "",
+      "room_category": "Grande Suite",
+      "description": "",
+      "size_sqm": "46",
+      "number_of_rooms": "12",
+      "bed_types": [],
+      "view": "",
+      "window_type": "",
+      "max_occupancy": "",
+      "standard_occupancy": "",
+      "room_features": [],
+      "seasonal_rates": [
+        {
+          "season_name": "Sunday-Thursday",
+          "date_range": "February to May 2025",
+          "occupancy_type": "",
+          "market_type": "FIT",
+          "rate_plan": "",
+          "currency": "VND",
+          "price": "3,350,000",
+          "meal_included": [
+            "breakfast for 2 guests"
+          ],
+          "tax_included": "",
+          "service_charge_included": "",
+          "rate_notes": [
+            "Nett",
+            "Valid from 12.02.2025"
+          ]
+        },
+        {
+          "season_name": "Friday-Saturday",
+          "date_range": "February to May 2025",
+          "occupancy_type": "",
+          "market_type": "FIT",
+          "rate_plan": "",
+          "currency": "VND",
+          "price": "3,500,000",
+          "meal_included": [
+            "breakfast for 2 guests"
+          ],
+          "tax_included": "",
+          "service_charge_included": "",
+          "rate_notes": [
+            "Nett",
+            "Valid from 12.02.2025"
+          ]
+        }
+      ]
+    }
+  ],
+  "extra_bed_policy": {
+    "available": "Yes",
+    "max_extra_beds_per_room": "1",
+    "extra_bed_rates": [
+      {
+        "season": "All seasons",
+        "currency": "VND",
+        "price": "700,000",
+        "conditions": [
+          "Nett per room per night",
+          "Maximum 1 extra bed or mattress per room",
+          "Applicable to Deluxe Suite and Grande Suite only"
+        ]
+      }
+    ]
+  },
+  "child_policy": {
+    "infant_policy": [
+      {
+        "age_range": "Under 6 years",
+        "currency": "VND",
+        "price": "0",
+        "conditions": [
+          "Free breakfast included",
+          "Maximum 2 children per room",
+          "Sharing with parents"
+        ]
+      }
+    ],
+    "child_free_policy": [],
+    "child_breakfast_policy": [
+      {
+        "age_range": "6-11 years",
+        "currency": "VND",
+        "price": "150,000",
+        "conditions": [
+          "Breakfast included",
+          "Sharing with parents"
+        ]
+      }
+    ],
+    "child_extra_bed_policy": [],
+    "adult_definition": "12 years and above",
+    "child_definition": "Under 12 years",
+    "baby_cot_policy": []
+  },
+  "meal_information": {
+    "restaurant_information": [],
+    "meal_rates": []
+  },
+  "included_benefits": [
+    {
+      "benefit_type": "Breakfast",
+      "details": "Breakfast menu for 2 guests included with room rate",
+      "applicable_room_types": [
+        "Deluxe Twin",
+        "Executive Deluxe",
+        "Deluxe Suite",
+        "Grande Suite"
+      ],
+      "conditions": []
+    },
+    {
+      "benefit_type": "Swimming Pool",
+      "details": "Free swimming pool access",
+      "applicable_room_types": [
+        "Deluxe Twin",
+        "Executive Deluxe",
+        "Deluxe Suite",
+        "Grande Suite"
+      ],
+      "conditions": []
+    },
+    {
+      "benefit_type": "Internet",
+      "details": "Free internet service in room",
+      "applicable_room_types": [
+        "Deluxe Twin",
+        "Executive Deluxe",
+        "Deluxe Suite",
+        "Grande Suite"
+      ],
+      "conditions": []
+    },
+    {
+      "benefit_type": "Tea and Coffee",
+      "details": "Free tea and coffee",
+      "applicable_room_types": [
+        "Deluxe Twin",
+        "Executive Deluxe",
+        "Deluxe Suite",
+        "Grande Suite"
+      ],
+      "conditions": []
+    }
+  ],
+  "facilities": [
+    {
+      "facility_name": "Swimming Pool",
+      "availability": "Free",
+      "notes": ""
+    },
+    {
+      "facility_name": "Internet",
+      "availability": "Free in room",
+      "notes": ""
+    },
+    {
+      "facility_name": "Tea and Coffee",
+      "availability": "Free",
+      "notes": ""
+    }
+  ],
+  "transportation_services": [],
+  "checkin_checkout_policy": {
+    "checkin_time": "",
+    "checkout_time": "",
+    "early_checkin_policy": [
+      {
+        "time_range": "2-5 hours before standard time",
+        "currency": "VND",
+        "price": "50%",
+        "conditions": [
+          "Calculated as 50% of room rate"
+        ]
+      },
+      {
+        "time_range": "More than 5 hours before standard time",
+        "currency": "VND",
+        "price": "100%",
+        "conditions": [
+          "Calculated as 100% of room rate"
+        ]
+      }
+    ],
+    "late_checkout_policy": [
+      {
+        "time_range": "12:00 - 18:00 after standard time",
+        "currency": "VND",
+        "price": "50%",
+        "conditions": [
+          "Calculated as 50% of room rate"
+        ]
+      },
+      {
+        "time_range": "After 18:00 from standard time",
+        "currency": "VND",
+        "price": "100%",
+        "conditions": [
+          "Calculated as 100% of room rate"
+        ]
+      }
+    ]
+  },
+  "cancellation_policy": [],
+  "payment_policy": {
+    "payment_terms": [],
+    "deposit_policy": [],
+    "refund_policy": []
+  },
+  "peak_period_surcharge": [
+    {
+      "occasion": "Holidays and Tet",
+      "date_range": "",
+      "currency": "VND",
+      "price": "200,000",
+      "percentage": "",
+      "conditions": [
+        "Weekend room rate plus 200,000 VND per room",
+        "Applied to all room types"
+      ]
+    }
+  ],
+  "restrictions": [
+    {
+      "type": "Extra bed availability",
+      "details": "Extra bed or mattress can only be placed in Deluxe Suite and Grande Suite rooms"
+    }
+  ],
+  "important_notes": [
+    "Rates valid from 12.02.2025",
+    "Applicable for bookings made from 12.02.2025",
+    "Child surcharge calculated based on date and month of birth at check-in time",
+    "Maximum 2 children per room"
+  ],
+  "raw_season_definitions": [
+    {
+      "season_name": "Sunday-Thursday",
+      "date_ranges": [
+        "February to May 2025"
+      ]
+    },
+    {
+      "season_name": "Friday-Saturday",
+      "date_ranges": [
+        "February to May 2025"
+      ]
+    }
+  ],
+  "special_hotel_feature": {
+    "feature_name": "",
+    "feature_category": "",
+    "details": ""
+  },
+  "metadata": {
+    "document_language": [
+      "Vietnamese",
+      "English"
+    ],
+    "document_type": "Room Rate Promotion - Travel Agency Contract",
+    "extraction_confidence": "High",
+    "contains_fit_rates": "Yes",
+    "contains_child_policy": "Yes",
+    "contains_meal_policy": "Yes",
+    "contains_transport_service": "No",
+    "contains_peak_surcharge": "Yes",
+    "contains_special_feature": "No"
+  }
+}
+```
